@@ -1,0 +1,14 @@
+.tableCon{
+    border:1px solid #D3D4D5;
+    border-radius: 5px;
+    width:100%
+  }
+  .tableTitle{
+    margin: 0  20px;
+    padding:0 10px 10px 0;
+    border-bottom: 2px solid #F2F2F2
+  }
+  .barCharts {
+    min-width: 300px; 
+    min-height: 340px;
+  }  
