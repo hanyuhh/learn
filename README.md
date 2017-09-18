@@ -1,4 +1,4 @@
-# vue-element-admin #
+<!-- # vue-element-admin #
 
 [![vue](https://img.shields.io/badge/vue-2.4.2-brightgreen.svg)](https://github.com/vuejs/vue)
 [![element-ui](https://img.shields.io/badge/element--ui-1.4.2-brightgreen.svg)](https://github.com/ElemeFE/element)
@@ -206,4 +206,4 @@ If you find this project useful, you can buy me a cup of coffee
 
 ## License
 
-MIT
+MIT -->
